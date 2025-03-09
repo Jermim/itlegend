@@ -1,0 +1,59 @@
+// import roboto font
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.Container {
+  margin: 0 auto;
+  max-width: 950px;
+  border: solid 1px #e6e6e6;
+
+
+  .Header {
+    background: #F5F9FA;
+    padding: 5px 15px;
+
+    .Nav {
+      background: url(image.png);
+
+      ul {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        list-style: none;
+        gap: 5px;
+        align-items: center;
+
+        li:not(:last-child):after {
+          background-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"%3E%3Cpath stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" /%3E%3C/svg%3E');
+          content: '';
+          width: 10px;
+          height: 10px;
+          display: inline-block;
+          margin-left: 10px;
+        }
+      }
+    }
+  }
+
+  .Body {
+    display: flex;
+    gap: 40px;
+    margin-top: 10px;
+    padding: 20px;
+
+    .Content {
+      flex: 1;
+    }
+
+    .Sidebar {
+      display: flex;
+      flex-direction: column;
+      width: 350px;
+    }
+  }
+}

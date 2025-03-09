@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Week 1-4",
+        "description": "Advanced story telling techniques for writers: Personas, Characters & Plots",
+        "items": [
+            {
+                "title": "Introduction"
+            },
+            {
+                "title": "Course Overview"
+            },
+            {
+                "title": "Course Overview",
+                "green": "0 Question",
+                "red": "10 Minutes",
+                "unlocked": true
+            },
+            {
+                "title": "Course excercise / Reference Files"
+            },
+            {
+                "title": "Code Editor installation (Optional if you have one)"
+            },
+            {
+                "title": "Embedding PHP in HTML"
+            }
+        ]
+    },
+    {
+        "title": "Week 5-8",
+        "description": "Advanced story telling techniques for writers: Personas, Characters & Plots",
+        "items": [
+            {
+                "title": "Defining functions"
+            },
+            {
+                "title": "Function Parameters"
+            },
+            {
+                "title": "Return values from functions",
+                "green": "2 Question",
+                "red": "15 Minutes",
+                "unlocked": true
+            },
+            {
+                "title": "Global variable and scope"
+            },
+            {
+                "title": "Newer way of creating a constant"
+            },
+            {
+                "title": "Constants"
+            }
+        ]
+    },
+    {
+        "title": "Week 5-8",
+        "description": "Advanced story telling techniques for writers: Personas, Characters & Plots",
+        "items": [
+            {
+                "title": "Defining functions"
+            },
+            {
+                "title": "Function Parameters"
+            },
+            {
+                "title": "Return values from functions",
+                "green": "2 Question",
+                "red": "15 Minutes",
+                "unlocked": true
+            },
+            {
+                "title": "Global variable and scope"
+            },
+            {
+                "title": "Newer way of creating a constant"
+            },
+            {
+                "title": "Constants"
+            }
+        ]
+    }
+]
